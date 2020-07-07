@@ -1,0 +1,9 @@
+# executable
+*.exe
+# db files
+*.db
+# debug files
+__debug_bin/**
+# editor files
+*.vscode
+*.vim
